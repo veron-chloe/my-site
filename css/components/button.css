@@ -1,0 +1,20 @@
+.button {
+    background-color: #609966;
+    padding: 15px 20px;
+    border-radius: 4px;
+	color: white;
+	font-weight: lighter;
+	font-family: Raleway, sans-serif;
+	box-shadow: 3px 3px 2px 1px rgba(0, 0, 0, 0.2);
+}  
+
+.liens a {
+   display: inline-block;
+   margin-right: 10px;
+   width: 300px;
+
+}
+
+.liens {
+   text-align: center;
+}

@@ -1,0 +1,50 @@
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/carousel.css");
+@import url("components/gallery.css");
+@import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&family=Lora&family=Roboto&family=Mistrully&family=Raleway&display=swap');
+
+
+body {
+  font-family: 'Lora', sans-serif;
+  background-color: #eef1e2;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h3  {
+  font-family: raleway;
+  margin-top: 50px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+p { 
+  font-family: raleway;
+  font-size: 15px;
+  margin-left: 15px;
+  text-align: justify;
+}
+
+a {
+  text-decoration: none;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar {
+    height: 6px;
+    background-color: #F5F5F5;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #3d4852;
+    border-radius: 3px;
+}
+
+
